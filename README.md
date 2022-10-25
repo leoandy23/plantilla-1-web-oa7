@@ -4,4 +4,4 @@ Repositorio de plantilla web de OA7
 
 ## Proyectos
 
--[Plantilla Web OA7](https://leoandy23.github.io/plantilla-web-oa7/OA7)
+-[Plantilla Web OA7](https://leoandy23.github.io/plantilla-1-web-oa7/OA7)
