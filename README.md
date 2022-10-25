@@ -1,6 +1,6 @@
-# Plantilla web de OA7INGENIERIAS
+# Plantilla 1 web de OA7INGENIERIAS
 
-Repositorio de plantilla web de OA7
+Repositorio de plantilla 1 web de OA7
 
 ## Proyectos
 
